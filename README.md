@@ -17,7 +17,7 @@ I’m an **Aspiring Ethical Hacker & Red Teamer** with a strong interest in offe
 
 ## 🏆 Accomplishments & Certifications
 
-- ✅ **PJPT – Practical Junior Penetration Tester**  
+- ✅ **[PJPT – Practical Junior Penetration Tester](https://pdf.credential.net/uaynirfj_1760581486308_f7c0a0e6097aa9e6ed92297e388d8707a6a9b9813ba4a54fcc06c027c3a7ced8.pdf)**  
   *TCM Security*
 
   - Hands-on penetration testing fundamentals  
